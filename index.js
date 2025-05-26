@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 function obtenerFrases(callback) {
   let frases = [];
   let promesas = [];
@@ -106,4 +104,3 @@ function iniciarJuego() {
 }
 
 iniciarJuego();
->>>>>>> 45b1045 (xdd)
